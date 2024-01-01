@@ -2,12 +2,12 @@
 #### Technical Skills: Python, SQL, Tableau, Alteryx, RPA, Excel (VBA)
 
 ## Education
-- Master's in Finance | The University of Tampa - USA (Dec 2017)
-- Master's in Business Administration (MBA) | Multimedia University - Malaysia  (Dec 2013)
-- Bachelor's in Business Management | Payame Noor University - Iran (Feb 2010)
+- Master's in Finance | The University of Tampa (Dec 2017)
+- Master's in Business Administration | Multimedia University (Dec 2013)
+- Bachelor's in Business Management | Payame Noor University (Feb 2010)
 
 
-## Passion Projects
+## Projects
 **[NFT Profitability - SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)**
 
 Similar to stocks or crypto trading, in the world of NFTs, understanding the best trading methods and where to spend your time efficiently in countless alpha groups for upcoming project insights is crucial due to daily time constraints. Using SQL, I dove deep into my 2022 NFT trading data to uncover the most profitable trading methods (Mint vs. Secondary Trades vs. Airdrops), identify seasonal trends, and discover the best alpha groups to gather early intel on upcoming NFTs.
@@ -23,8 +23,9 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Work Experience
-**BUSINESS ANALYST III – DATA ANALYTICS People Leader
-Quest Diagnostics (Jul 2021 - Present)**
+**BUSINESS ANALYST III – DATA ANALYTICS (People Leader)**
+
+**Quest Diagnostics (Jul 2021 - Present)**
 + Lead the HRSC Reporting and Analytics team, managing a team of 3 data analysts.
 + Designed and implemented an automated ETL pipeline using Python, Alteryx Desktop, and RPA (Power Automate), to automate the extraction of multiple data sources from multiple data management systems and data sources into Tableau Server. This resulted in a 65% reduction in reporting processing time and achieved a 100% data accuracy rate. 
 + Designed, developed, and maintained an interactive operational performance dashboard using Tableau Desktop and server. The dashboard encompassed KPIs, scorecards, trends, and operational metrics, garnering approximately 1000 monthly views across 8 functional teams (Benefit, Systems, ER, Learning & Development, CPI, Onboarding, R&A, and Service Desk). Recognized as the authoritative data source for the department, it facilitated direct exports for functional and senior leaders, leading to a 20% reduction in ad-hoc requests and a 40% improvement in turnaround time. 
@@ -34,8 +35,9 @@ Quest Diagnostics (Jul 2021 - Present)**
 + Developed customized self-service performance Tableau and Power BI dashboards for individual teams, empowered functional leaders to independently review team performance, view updated visualization, export data, and track trends within their respective teams, which led to a significant reduction of 5 hours per week in JIT reporting and communications across all teams. 
 + Led monthly 1-hour operational overview calls using my comprehensive Tableau dashboard, spotlighted performance metrics, trends, and areas for improvement, to equip cross-functional leaders with valuable insights for better data-driven decisions.
 
-**BUSINESS ANALYST II – DATA ANALYTICS
-Quest Diagnostics (May 2018 - Jul 2021)**
+**BUSINESS ANALYST II – DATA ANALYTICS**
+
+**Quest Diagnostics (May 2018 - Jul 2021)**
 + Revamped reporting methods by transitioning from exclusive Excel usage to a new process harnessing Excel functionalities and Excel Macros (VBA). This initiative led to a 35% reduction in report processing time.
 + Contributed to Quest company-wide transitioning from PeopleSoft to Oracle data management by conducting comparative analysis to pinpoint data discrepancies using SQL to join multiple large datasets across both Oracle Test and PROD environments. 
 + Delivered high-impact recurring and ad-hoc reports, metrics, analyses, visualizations, and associated recommendations based on business needs, customized to the audience with a 100% SLA compliance rate.
