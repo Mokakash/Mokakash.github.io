@@ -23,7 +23,7 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Work Experience
-**BUSINESS ANALYST III – DATA ANALYTICS (People Leader)**
+**DATA ANALYST III – ANALYTICS PEOPLE LEADER**
 
 **Quest Diagnostics (Jul 2021 - Present)**
 + Lead the HRSC Reporting and Analytics team, managing a team of 3 data analysts.
@@ -35,7 +35,7 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 + Developed customized self-service performance Tableau and Power BI dashboards for individual teams, empowered functional leaders to independently review team performance, view updated visualization, export data, and track trends within their respective teams, which led to a significant reduction of 5 hours per week in JIT reporting and communications across all teams. 
 + Led monthly 1-hour operational overview calls using my comprehensive Tableau dashboard, spotlighted performance metrics, trends, and areas for improvement, to equip cross-functional leaders with valuable insights for better data-driven decisions.
 
-**BUSINESS ANALYST II – DATA ANALYTICS**
+**DARA II**
 
 **Quest Diagnostics (May 2018 - Jul 2021)**
 + Revamped reporting methods by transitioning from exclusive Excel usage to a new process harnessing Excel functionalities and Excel Macros (VBA). This initiative led to a 35% reduction in report processing time.
