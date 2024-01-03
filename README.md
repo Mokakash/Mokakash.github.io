@@ -51,4 +51,5 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Publication
-Hassanpour MK, Chong CW, Chong SC et al., 2021. HR practices and turnover intention; the mediating role of organizational commitment in Tehran: a cross-sectional study
+Hassanpour MK, Chong CW, Chong SC et al., 2021. HR practices and turnover intention; the mediating role of organizational commitment: a cross-sectional study
+[F1000Reseach](https://f1000research.com/articles/10-1130)
