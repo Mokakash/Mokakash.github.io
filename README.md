@@ -23,7 +23,7 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Work Experience
-**DATA ANALYST III – ANALYTICS PEOPLE LEADER**
+**SENIOR DATA ANALYST – ANALYTICS PEOPLE LEADER**
 
 **Quest Diagnostics (Jul 2021 - Present)**
 + Lead the HRSC Reporting and Analytics team, managing a team of 3 data analysts.
