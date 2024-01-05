@@ -15,6 +15,9 @@ In this project, I used Python along with libraries like Pandas, NumPy, Matplotl
 
 Github: [Python Project](https://github.com/Mokakash/NFT_Trades_Project_Python)
 
+![Sample_Viz](https://github.com/Mokakash/Mokakash.github.io/blob/main/Assets/Sample_Viz_for_Python_Project.png)
+
+
 **[NFT Profitability - SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)**
 
 Similar to stocks or crypto trading, in the world of NFTs, understanding the best trading methods and where to spend your time efficiently in countless alpha groups for upcoming project insights is crucial due to daily time constraints. Using SQL, I dove deep into my 2022 NFT trading data to uncover the most profitable trading methods (Mint vs. Secondary Trades vs. Airdrops), identify seasonal trends, and discover the best alpha groups to gather early intel on upcoming NFTs.
