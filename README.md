@@ -16,7 +16,7 @@ In this project, I used Python along with libraries like Pandas, NumPy, Matplotl
 Github: [Python Project](https://github.com/Mokakash/NFT_Trades_Project_Python)
 
 Featured Graphs
-![Sample_Viz](https://github.com/Mokakash/Mokakash.github.io/blob/main/Assets/Sample_Viz_Python_Project.png)
+![Featured Graphs](https://github.com/Mokakash/Mokakash.github.io/blob/main/Assets/Sample_Python_Project_Viz.jpg)
 
 
 **[NFT Profitability - SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)**
