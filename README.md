@@ -13,6 +13,8 @@
 
 In this project, I used Python along with libraries like Pandas, NumPy, Matplotlib, Seaborn, and Plotly to clean and explore my 2022 NFT trade data using various exploratory data analysis (EDA) methods. My primary goal was to uncover insights into trade performance, connections between different features, and the significance of trade methods and alpha groups in my NFT trading journey.
 
+Github: [Python Project](https://github.com/Mokakash/NFT_Trades_Project_Python)
+
 **[NFT Profitability - SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)**
 
 Similar to stocks or crypto trading, in the world of NFTs, understanding the best trading methods and where to spend your time efficiently in countless alpha groups for upcoming project insights is crucial due to daily time constraints. Using SQL, I dove deep into my 2022 NFT trading data to uncover the most profitable trading methods (Mint vs. Secondary Trades vs. Airdrops), identify seasonal trends, and discover the best alpha groups to gather early intel on upcoming NFTs.
