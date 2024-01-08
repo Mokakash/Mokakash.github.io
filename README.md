@@ -1,4 +1,7 @@
 # Data Analyst - BI Analyst
+
+### [LinkedIn](https://www.linkedin.com/in/moka-kashinejad/)
+
 #### Technical Skills: Python, SQL, Tableau, Alteryx, RPA, Excel (VBA)
 
 ## Education
