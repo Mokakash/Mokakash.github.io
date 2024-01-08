@@ -10,7 +10,7 @@
 - Bachelor's in BM     | Payame Noor University (Feb 2010)
 
 
-## Projects
+## Passion Projects
 
 **[NFT Trades - Python Project](https://github.com/Mokakash/NFT_Trades_Project_Python)**
 
