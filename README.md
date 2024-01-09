@@ -54,8 +54,6 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 + Delivered high-impact recurring and ad-hoc reports, metrics, analyses, visualizations, and associated recommendations based on business needs, customized to the audience with a 100% SLA compliance rate.
 + Developed Oracle Agents enabling automated report delivery directly from Oracle, reduced report delivery time by 20%.
 
-**GRADUATE ASSISTANT @ University of Tampa (Jan 2016 - Dec 2017)**
-
 **DATA ANALYST @ Azhand Sazeh  Co.(May 2015 - Dec 2015)**
 
 **REPORTING ANALYST @ Tourism Bank (Oct 2013 - May 2015)**
