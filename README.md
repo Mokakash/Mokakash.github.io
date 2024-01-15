@@ -32,6 +32,7 @@ Github: [SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)
 In this Tableau project, I have used my personal collection of 2022 NFT trades to visually analyze my trades, exploring the most profitable trading methods, month-over-month performances, and determining where to focus my time among various alpha groups. This Tableau dashboard seamlessly integrates interactive filtering and reactive data selection capabilities and can be toggled between day and night modes based on user preferences. Feel free to explore and interact with the dashboard by visiting Tableau Public.
 
 Github: [Tableau Project](https://github.com/Mokakash/NFT_Profitability_Dashboard_Tableau/blob/main/README.md)
+
 Tableau Public: [Tableau Project](https://public.tableau.com/app/profile/moka.kash/viz/NFT_Profitability/NFT_Profitability?publish=yes)
 
 
