@@ -35,8 +35,6 @@ Github: [Tableau Project](https://github.com/Mokakash/NFT_Profitability_Dashboar
 
 Tableau Public: [Tableau Project](https://public.tableau.com/app/profile/moka.kash/viz/NFT_Profitability/NFT_Profitability?publish=yes)
 
-![Viz Overview](https://github.com/Mokakash/NFT_Profitability_Dashboard_Tableau/blob/main/Assets/NFT_Dashboard.gif)
-
 
 **[Web Scraping Price Tracker - Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_Project_Pyhton)**
 
