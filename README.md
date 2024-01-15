@@ -26,6 +26,15 @@ To address the primary objectives of this project, I have cleaned the raw data f
 
 Github: [SQL Project](https://github.com/Mokakash/NFT_Profitability_Project_SQL)
 
+
+**[NFT Profitability Dashboard - Tableau Project](https://github.com/Mokakash/NFT_Profitability_Dashboard_Tableau?tab=readme-ov-file)**
+
+In this Tableau project, I have used my personal collection of 2022 NFT trades to visually analyze my trades, exploring the most profitable trading methods, month-over-month performances, and determining where to focus my time among various alpha groups. This Tableau dashboard seamlessly integrates interactive filtering and reactive data selection capabilities and can be toggled between day and night modes based on user preferences. Feel free to explore and interact with the dashboard by visiting Tableau Public.
+
+Github: [Tableau Project](https://github.com/Mokakash/NFT_Profitability_Dashboard_Tableau/blob/main/README.md)
+Tableau Public: [Tableau Project](https://public.tableau.com/app/profile/moka.kash/viz/NFT_Profitability/NFT_Profitability?publish=yes)
+
+
 **[Web Scraping Price Tracker - Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_Project_Pyhton)**
 
 This Python project originated from a personal need to track the price of the Apple Watch Ultra 2 on the Amazon U.S. website. Initially desiring to purchase the Apple Watch Ultra 2 without paying its full MSRP of $799, I’ve decided to build this project to monitor its price changes and receive email notifications if it dropped below the original price. The project aimed to assist in securing the watch at a discounted rate, bypassing the need to pay the full retail price. Through Python, this project streamlines the process of monitoring online prices, offering updates via email notifications.
