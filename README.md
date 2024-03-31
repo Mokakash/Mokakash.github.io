@@ -7,7 +7,7 @@
 ## Education
 - Master's in Finance  | The University of Tampa (Dec 2017)
 - Master's in BA (MBA) | Multimedia University (Dec 2013)
-- Bachelor's in BM     | Payame Noor University (Feb 2010)
+- Bachelor's in BM     | Payame Noor University (Feb 2010) 
 
 
 ## Passion Projects
