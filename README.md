@@ -2,7 +2,7 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/moka-kashinejad/)
 
-#### Technical Skills: Python, SQL, Tableau, Alteryx, RPA, Excel (VBA)
+#### Technical Skills: Python, SQL, Tableau, Sigma, Alteryx, RPA, Excel (VBA)
 
 ## Education
 - Master's in Finance  | The University of Tampa (Dec 2017)
@@ -51,9 +51,22 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Work Experience
-**SENIOR DATA ANALYST – ANALYTICS PEOPLE LEADER**
+**SENIOR DATA Analyst – Financial Operations**
 
-**Quest Diagnostics (Jul 2021 - Present)**
+**Agero Inc. (March 2024 - June 2025)**
++ Lead the HRSC Reporting and Analytics team, managing a team of 3 data analysts.
+
++ Acted as Finance SME and analytics liaison, partnering with cross-functional teams to deliver scalable dashboards and data products that replaced manual workflows, uncovered key operational insights, and improved executive-level data storytelling.
++ Consolidated fragmented finance dashboards into a unified, all-in-one Sigma Finance Executive Dashboard with consistent tabs for Invoicing, Billing, Reimbursements, Clients, Service Providers, VCC, Tax, and Financials. Established a single source of truth and became one of the most-used dashboards among senior leadership.
++ Built the first-ever Finance Analytics intake channel via Slack and Jira, streamlining analytics requests and reporting needs. Replaced fragmented intake across email, calls, Slack, and DMs—preventing lost or missed requests—and enabled detailed intake reporting with ticket volume, status, aging, subject areas, and SLA metrics.
++ Partnered with Data Engineering to materialize a Snowflake dataset combining ZIP, city, county, district, and state-level tax data. Built a dynamic Sigma Tax Breakdown dashboard with global filters, which enabled the Compliance team to perform self-service, on-demand audits by geography or service provider, and eliminated 4–5 monthly ad hoc requests.
++ Developed a Case Reimbursement dashboard with logic for exclusions, exemptions, and invalid entries. Automated audit insights and enabled on-demand case-level reporting, which led to $235K in recovered reimbursements in H1 2025.
++ Designed and deployed a live Sigma-based P&L dashboard comparing Actuals, Plan, and Prior Year data across KPIs (Revenue, Profit, CM, COGS), which enabled CSMs and CSDs to self-serve performance insights and saved 30+ minutes daily by eliminating manual Excel-based analysis.
+
+
+**SENIOR DATA ANALYST – PEOPLE ANALYTICS (PEOPLE LEADER)**
+
+**Quest Diagnostics (Jul 2021 - March 2024)**
 + Lead the HRSC Reporting and Analytics team, managing a team of 3 data analysts.
 + Designed and implemented an automated ETL pipeline using Python, Alteryx Desktop, and RPA (Power Automate), to automate the extraction of multiple data sources from multiple data management systems and data sources into Tableau Server. This resulted in a 65% reduction in reporting processing time and achieved a 100% data accuracy rate. 
 + Designed, developed, and maintained an interactive operational performance dashboard using Tableau Desktop and server. The dashboard encompassed KPIs, scorecards, trends, and operational metrics, garnering approximately 1000 monthly views across 8 functional teams (Benefit, Systems, ER, Learning & Development, CPI, Onboarding, R&A, and Service Desk). Recognized as the authoritative data source for the department, it facilitated direct exports for functional and senior leaders, leading to a 20% reduction in ad-hoc requests and a 40% improvement in turnaround time. 
