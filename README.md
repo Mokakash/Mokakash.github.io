@@ -51,7 +51,7 @@ Github: [Python Project](https://github.com/Mokakash/Web_Scraping_Price_Tracker_
 
 
 ## Work Experience
-**SENIOR DATA Analyst – Financial Operations**
+**SENIOR DATA ANALYST – Financial Operations**
 
 **Agero Inc. (March 2024 - June 2025)**
 + Acted as Finance SME and analytics liaison, partnering with cross-functional teams to deliver scalable dashboards and data products that replaced manual workflows, uncovered key operational insights, and improved executive-level data storytelling.
